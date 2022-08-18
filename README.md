@@ -1,2 +1,2 @@
 # sri
-Cliente Python de la API del Servicio de Rentas Internas (SRI)
+Cliente en TypeScript de la API del Servicio de Rentas Internas (SRI)
