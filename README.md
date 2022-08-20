@@ -1,5 +1,5 @@
 # sri
-Cliente de la API del Servicio de Rentas Internas (SRI) para [facturación electrónica](https://www.sri.gob.ec/facturacion-electronica) en Ecuador.
+Cliente del Web Service del Servicio de Rentas Internas (SRI) para [facturación electrónica](https://www.sri.gob.ec/facturacion-electronica) en Ecuador.
 
 
 ## Tipos de Comprobantes
