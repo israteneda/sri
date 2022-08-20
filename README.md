@@ -9,5 +9,5 @@ Cliente en TypeScript de la API del Servicio de Rentas Internas (SRI) para [fact
 - [ ] Nota de Débito
 - [ ] Guía de Remisión
 - [ ] Comprobante de Retención
-> ✅  Indica que es soportado por la libreria
+> ✅ Indica que es soportado por la libreria
 
