@@ -3,7 +3,7 @@ Cliente en TypeScript de la API del Servicio de Rentas Internas (SRI) para [fact
 
 
 ## Tipos de Comprobantes
-> [x] Indica que es soportado por la libreria
+> ✅ Indica que es soportado por la libreria
 - [ ] Factura
 - [ ] Liquidación de compra de bienes y prestación de  servicios
 - [ ] Nota de Crédito
